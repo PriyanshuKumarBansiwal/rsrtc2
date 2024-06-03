@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "build": "^0.1.4"
+  },
+  "scripts": {
+    "start": "concurrently \"cd Frontend && npm run dev\" \"cd Backend && npx nodemon index\""
+    
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
