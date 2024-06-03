@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "cryptr": "^6.3.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-fileupload": "^1.5.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.3.3",
+    "nodemon": "^3.1.0"
+  },
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "��#\u0000 \u0000R\u0000s\u0000r\u0000s\u0000t\u0000c\u0000A\u0000p\u0000i\u0000s\u0000\r\u0000 \u0000",
+  "devDependencies": {}
+}
